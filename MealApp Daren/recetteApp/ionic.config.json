@@ -1,7 +1,0 @@
-{
-  "name": "recetteApp",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "vue-vite"
-}
